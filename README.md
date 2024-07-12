@@ -72,10 +72,10 @@
 </div>
 
 ###
+<img align="right" height="150" src="https://media.giphy.com/media/3og0IG0vkIQpuJoLvO/giphy.gif?cid=ecf05e47y2b0jgkeunlleq2oem1xz3tixcwhjdfi5qe3y5ij&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
-<h2 align="left">Social links</h2>
+<h3 align="left">let's connect</h3>
 
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/pittu-sai-rama-krishna/" target="_blank">
@@ -105,6 +105,14 @@
 <img src="https://raw.githubusercontent.com/SaiRamaKrishnaa/SaiRamaKrishnaa/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h2 align="left">Check out some of my pinned projects below:
+</h2>
+
+###
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHpsaWpzbGc1bnpiMDAyaGRvcjN4cHBuZzNicmhsNGlqZTg5Zmo2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iy9iqThC2ueLTkA/giphy.gif" alt="gif" />
+</div>
 <!---
 SaiRamaKrishnaa/SaiRamaKrishnaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
