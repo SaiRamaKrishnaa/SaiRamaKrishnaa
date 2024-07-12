@@ -27,7 +27,7 @@
 
 ###
 
-<h2 align="left">Tech I Use</h2>
+<h3 align="left">Tech I Use</h3>
 
 ###
 
