@@ -62,8 +62,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
 </div>
 
-###
-<img align="right" height="150" src="https://media.giphy.com/media/3og0IG0vkIQpuJoLvO/giphy.gif?cid=ecf05e47y2b0jgkeunlleq2oem1xz3tixcwhjdfi5qe3y5ij&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 <h3 align="left">let's connect</h3>
 
@@ -88,6 +86,10 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+###
+<img align="right" height="150" src="https://media.giphy.com/media/3og0IG0vkIQpuJoLvO/giphy.gif?cid=ecf05e47y2b0jgkeunlleq2oem1xz3tixcwhjdfi5qe3y5ij&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+
 
 ###
 
