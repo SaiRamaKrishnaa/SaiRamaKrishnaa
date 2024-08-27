@@ -2,9 +2,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-![White Simple Minimalist LinkedIn Banner(4)](https://github.com/user-attachments/assets/eeac160a-d372-433d-8361-068b57bcc03b)
+![White Simple Minimalist LinkedIn Banner(4)](https://github.com/user-attachments/assets/b71ad8d2-a02e-4de2-9578-a473ace359d6)
 
-<h1 align="center" style="border-bottom: none;"><b>Hi there, I'm Sai Rama Krishna </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h2 align="center" style="border-bottom: none;"><b>Hi there, I'm Sai Rama Krishna </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
