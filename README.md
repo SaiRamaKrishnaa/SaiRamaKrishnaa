@@ -58,11 +58,7 @@ Specialized in building full-stack web applications, real-time voice streaming p
 - **Offline LLM Evaluation Harness:** Built an offline eval harness sweeping 17 models × 2 personas (38 recorded runs) using a frontier LLM as judge to score agent honesty and naturalness.
 - **Infrastructure & Observability:** Architected containerized cloud infrastructure using modular Terraform IaC (AWS EKS/ECS/S3), deploying ArgoCD for GitOps continuous delivery, Karpenter for Kubernetes node autoscaling, and OpenTelemetry + Langfuse + LGTM tracing across 8+ microservices.
 
-#### 2. Alephee (Y Combinator S21) — Database Engineering Consultant
-*Solo database workstream lead for a LatAm B2B e-commerce platform operating across 8 countries.*
-- **SQL Server → PostgreSQL Replatforming:** Evaluated 919 GB / 4.6B row multi-tenant database estate (2,159 schema objects).
-- **Compute Spend Optimization:** Modeled AWS RDS compute spend reduction from ~$180k/yr to ~$50k/yr on AWS Graviton by classifying schema dependencies and eliminating unneeded DBA utility objects.
-- **Replication Pipeline:** Set up DMS T-SQL → PL/pgSQL conversion pipelines and MS-CDC change data capture pipelines for zero-downtime cutover rehearsal.
+
 
 ---
 
